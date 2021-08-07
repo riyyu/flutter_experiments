@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037381718072",
+    "project_id": "riyyu-flutter-experiments",
+    "storage_bucket": "riyyu-flutter-experiments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037381718072:android:5ef0fed6dfa1826cd9d6cd",
+        "android_client_info": {
+          "package_name": "com.rifqiabiyyu.experiments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037381718072-58iqrl0ss9sklj6258du6qr4p73lvgds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBpD6mz_2wE_IuaHjtiDVc_3Vaium7SXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037381718072-58iqrl0ss9sklj6258du6qr4p73lvgds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
