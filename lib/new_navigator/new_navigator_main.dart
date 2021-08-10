@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_experiments/new_navigator/new_navigator_home_page.dart';
+import 'new_navigator_home_page.dart';
 
 void main() {
   runApp(MyApp());

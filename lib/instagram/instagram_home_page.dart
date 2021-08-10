@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_experiments/instagram/instagram_post.dart';
+import 'instagram_post.dart';
 
 class InstagramHomePage extends StatefulWidget {
   const InstagramHomePage({Key? key}) : super(key: key);
